@@ -4,6 +4,9 @@
   "repository": "https://gist.github.com/glensc/fc15ab8a8df5db16ed71d28b7ca5a39a",
   "author": "Elan Ruusamäe <glen@delfi.ee>",
   "license": "MIT",
+  "scripts": {
+    "validate": "renovate-config-validator"
+  },
   "dependencies": {
     "renovate": "^35.81.0"
   }
