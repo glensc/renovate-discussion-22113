@@ -5,6 +5,7 @@
   "author": "Elan Ruusamäe <glen@delfi.ee>",
   "license": "MIT",
   "scripts": {
+    "test": "renovate glensc/renovate-discussion-22113 --dry-run",
     "validate": "renovate-config-validator"
   },
   "dependencies": {
